@@ -1,2 +1,2 @@
 # Spotify_Clone
-using js,html,css
+USING HTML, CSS, JS
